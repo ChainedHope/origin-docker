@@ -1,4 +1,8 @@
-# LAN Cache in a docker container
+# [Discontinued] LAN Cache in a docker container
+
+***
+A Quick note. This project is being Discontinued and reopened at a later time as a new project source. The reason for this is because I want to start from scratch and not have to worry about this as much. The OpenSourceLAN guys already pulled my changes and have updated it a bit more than me, go check their project if you would like to keep using it. I will be creating a more AIO focused project in the future as I get time.
+***
 
 Simply expose this container on port 80, and point a bunch of domains to this server's IP address, 
 and you get a fully operational LAN cache. Hooray!
